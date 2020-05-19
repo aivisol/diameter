@@ -1,5 +1,6 @@
 #=============================================================================
 #RFC 4740 Diameter SIP Application
+DIAMETER_APPLICATION_SIP = 6
 
 DIAMETER_COMMAND_UAR = 283 # User-Authorization-Request / Answer
 DIAMETER_COMMAND_SAR = 284 # Server-Assignment-Request / Answer
